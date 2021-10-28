@@ -365,7 +365,6 @@ namespace fGameZip
                 {
                     //setLed(column+1,State.Low)
                     SmazBod(column, row)
-                    //led.unplot(column, row)
                 }
             }
         }
