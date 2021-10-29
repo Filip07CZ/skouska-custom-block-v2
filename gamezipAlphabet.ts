@@ -341,6 +341,7 @@ namespace GameZip_Alphabet
             case 2:
             {
                 SpojBody(1, 1, 1, 6)
+                return 1 
                 break
             }
 
