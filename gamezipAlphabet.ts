@@ -316,6 +316,7 @@ namespace GameZip_Alphabet
                 SpojBody(0, 0, 0, 7)
                 SpojBody(1, 3, 5, 3)
                 SpojBody(6, 0, 6, 7)
+                return 6
                 break
             }
 
